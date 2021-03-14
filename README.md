@@ -1,5 +1,5 @@
 # PropertyHelper
-[PropertyHelper](https://github.com/To4kan/PropertyHelper/blob/master/PropertyHelper.exe)
+[Скачать PropertyHelper](https://github.com/To4kan/PropertyHelper/blob/master/PropertyHelper.exe)
 ## To force a variable to call "OnPropertyChanged"
 0. You must press "Включить"
 1. Write some variable with { get; set; } in VS
