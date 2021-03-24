@@ -1,4 +1,4 @@
-# PropertyHelper
+# GetSetHelper
 [Download PropertyHelper](https://github.com/To4kan/PropertyHelper/blob/master/PropertyHelper.exe)
 ## To force a variable to call "OnPropertyChanged"
 0. You must press "Включить"
